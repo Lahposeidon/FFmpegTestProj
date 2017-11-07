@@ -1,0 +1,114 @@
+# Complied Object files #
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled source #
+#######################################
+*.com
+*.class
+*.exe
+*.out
+*.app
+
+# Fortran modules files #
+#######################################
+.mod
+
+# Compiled Static libraries #
+#######################################
+*.lai
+*.la
+*.a
+*.lib
+
+# Packages #
+#######################################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and database #
+#######################################
+*.log
+*.sql
+*.sqlite
+*.tlog
+
+# OS generated files #
+#######################################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+.AppleDouble
+.LSOverride
+Desktop.ini
+
+# VisualStudio #
+#######################################
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.cachefile
+
+# Build results #
+######################################
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Windows Installer files #
+######################################
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Build Results of an ATL Project #
+######################################
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc

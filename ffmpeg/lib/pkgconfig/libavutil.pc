@@ -1,0 +1,14 @@
+prefix=/home/parallels/ffmpeg/sandbox/win32/ffmpeg_git_with_fdk_aac_shared.installed
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 54.27.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -lm
+Cflags: -I${includedir}
